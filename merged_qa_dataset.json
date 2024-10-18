@@ -1,0 +1,1101 @@
+[
+  {
+    "id": 1,
+    "question": "How can I renew my Manulife One sub-account?",
+    "answer": "You can renew your Manulife One sub-account either through online banking, mobile banking, by calling us or by mailing or faxing your signed renewal agreement.",
+    "category": "Renewing a Sub-Account"
+  },
+  {
+    "id": 2,
+    "question": "What are my options when renewing a sub-account?",
+    "answer": "You can choose to renew your sub-account with a new fixed term or convert it to a variable-rate sub-account. Renewal terms may vary, and you can select a term that best meets your financial needs. Our team can help you understand the available rates and options during the renewal process.",
+    "category": "Options for Renewal"
+  },
+  {
+    "id": 3,
+    "question": "When should I start the renewal process for my sub-account?",
+    "answer": "It’s best to start the renewal process a few weeks before the end of your current term. This gives you time to review available rates and options. We will also send you a reminder with renewal details around 30 days before your sub-account term ends.",
+    "category": "Renewal Process Timing"
+  },
+  {
+    "id": 4,
+    "question": "Can someone help me with renewing my sub-account?",
+    "answer": "Absolutely! Our renewal specialists are available to assist you with the process. You can schedule an appointment through our online banking system or call us directly. A renewal specialist will guide you through the available options and help you make the best choice.",
+    "category": "Renewal Assistance"
+  },
+  {
+    "id": 5,
+    "question": "Can I renew my sub-account online?",
+    "answer": "Yes, you can renew your sub-account online through Manulife's online banking. Simply log in, navigate to the 'Sub-accounts' section, select the sub-account you wish to renew, and follow the steps to choose your preferred renewal term and rate.",
+    "category": "Online Renewal Steps"
+  },
+  {
+    "id": 6,
+    "question": "Should I renew my sub-account with a fixed or variable rate?",
+    "answer": "The choice between a fixed-rate and variable-rate sub-account depends on your financial situation and market conditions. A fixed-rate sub-account offers stability with a set interest rate for the term, while a variable-rate sub-account may offer lower rates but can fluctuate over time. Our renewal specialists can provide advice to help you make the best decision.",
+    "category": "Fixed-Rate vs. Variable-Rate Sub-Account Renewal"
+  },
+  {
+    "id": 7,
+    "question": "Are there any fees associated with renewing a sub-account?",
+    "answer": "Typically, there are no fees for renewing your Manulife One sub-account if you continue with a similar product. However, if you convert your sub-account from a fixed-rate to a variable-rate product or change the term significantly, additional fees may apply. Please contact us to learn more about any potential costs.",
+    "category": "Fees and Costs"
+  },
+  {
+    "id": 8,
+    "question": "What happens if I don’t renew my sub-account before the term ends?",
+    "answer": "If you do not renew your sub-account before the end of its term, the balance may automatically move to the variable-rate portion of your Manulife One account. It’s important to review your options before the term expires to ensure you have the best terms for your needs.",
+    "category": "Declining to Renew"
+  },
+  {
+    "id": 9,
+    "question": "How does renewing a sub-account affect my overall Manulife One account?",
+    "answer": "Renewing a sub-account allows you to continue tracking specific debts separately from your main Manulife One balance. This can help with budgeting and financial planning. The interest rate for your sub-account will depend on the renewal terms you select, which may impact your overall interest costs.",
+    "category": "Impact on Overall Manulife One Account"
+  },
+  {
+    "id": 10,
+    "question": "Can I change the term length when I renew my sub-account?",
+    "answer": "Yes, during the renewal process, you have the option to adjust the term length of your sub-account. Whether you want a shorter or longer fixed term, you can select what best aligns with your financial goals. Our online banking platform or a renewal specialist can guide you through adjusting your term length.",
+    "category": "Adjusting the Renewal Terms"
+  },
+  {
+    "id": 11,
+    "question": "What is a Manulife One account?",
+    "answer": "Manulife One is a unique account that combines your mortgage, personal loans, and savings into one, allowing you to reduce debt faster. The more money you deposit, the less interest you pay on your debt.",
+    "category": "General Questions about Manulife One"
+  },
+  {
+    "id": 12,
+    "question": "How does depositing money into my Manulife One account help me?",
+    "answer": "Every deposit you make directly reduces your debt balance, which lowers the interest you pay. This helps you save on interest costs and pay off your debt faster.",
+    "category": "General Questions about Manulife One"
+  },
+  {
+    "id": 13,
+    "question": "How do I activate my Manulife One access card?",
+    "answer": "To activate your access card, call us with your access card number and two pieces of personal information, such as your postal code and birth date. Follow the instructions to set up your online and telephone banking passwords.",
+    "category": "Account Setup and Activation"
+  },
+  {
+    "id": 14,
+    "question": "What do I need to do once my Manulife One account is active?",
+    "answer": "After activating your account, you can set up direct deposits, repay existing loans, set up bill payments, and transfer balances from other accounts into your Manulife One account.",
+    "category": "Account Setup and Activation"
+  },
+  {
+    "id": 15,
+    "question": "How can I deposit money into my Manulife One account?",
+    "answer": "You can deposit money using direct deposits, mobile deposits, fund transfers from other Canadian accounts, ATMs in THE EXCHANGE® Network, or by mailing a cheque. You can also use RBC Royal Bank deposit slips for in-branch deposits.",
+    "category": "Managing Deposits and Withdrawals"
+  },
+  {
+    "id": 16,
+    "question": "Can I transfer money between my Manulife One account and another bank account?",
+    "answer": "Yes, you can link your Manulife One account with another Canadian bank account and transfer funds through online or mobile banking.",
+    "category": "Managing Deposits and Withdrawals"
+  },
+  {
+    "id": 17,
+    "question": "What is a sub-account, and why would I use one?",
+    "answer": "A sub-account allows you to separately track portions of your debt, like a term loan or investment-related debt. This can help you manage and pay off specific debts within your overall Manulife One account.",
+    "category": "Using Sub-Accounts"
+  },
+  {
+    "id": 18,
+    "question": "How do I set up a sub-account in my Manulife One account?",
+    "answer": "Log in to your Manulife One online banking, select 'Open Sub-accounts,' and follow the prompts. You'll choose the term options and set up a payment plan. All account holders need to sign the documentation before it is processed.",
+    "category": "Using Sub-Accounts"
+  },
+  {
+    "id": 19,
+    "question": "What is the Unlimited Daily Banking fee for my Manulife One account?",
+    "answer": "The Unlimited Daily Banking fee is $16.95 per month, or $9.95 for customers aged 60 or older. This fee is waived if your account balance is over $5,000 at the end of each month.",
+    "category": "Rates, Fees, and Limits"
+  },
+  {
+    "id": 20,
+    "question": "How is interest calculated on my Manulife One account?",
+    "answer": "Interest is calculated daily on your account's closing balance and posted monthly. Fixed rates apply to term sub-accounts, while the Manulife One Base Rate is used for variable balances.",
+    "category": "Rates, Fees, and Limits"
+  },
+  {
+    "id": 21,
+    "question": "How do I increase my borrowing limit?",
+    "answer": "To increase your borrowing limit, we will arrange a new appraisal of your property. You may need to submit updated financial information and undergo re-underwriting. Some fees may apply.",
+    "category": "Account Maintenance and Changes"
+  },
+  {
+    "id": 22,
+    "question": "What happens if I exceed my borrowing limit?",
+    "answer": "If your total debt exceeds your authorized limit, transactions may be declined and returned as non-sufficient funds (NSF). You will need to deposit more money into your account to restore the balance and cover any NSF fees.",
+    "category": "Account Maintenance and Changes"
+  },
+  {
+    "id": 23,
+    "question": "What should I do if I lose my access card?",
+    "answer": "If your access card is lost or stolen, call us immediately at 1-877-765-2265. We will cancel your existing card and issue a new one.",
+    "category": "Issues and Troubleshooting"
+  },
+  {
+    "id": 24,
+    "question": "I made a deposit, but the funds are not available yet. Why?",
+    "answer": "Deposits may be subject to a hold for processing time, especially if they involve cheques or external account transfers. It can take up to two business days for deposits to be available.",
+    "category": "Issues and Troubleshooting"
+  },
+  {
+    "id": 25,
+    "question": "How do I apply for Manulife One Creditor’s Group Insurance?",
+    "answer": "You can apply for Manulife One Creditor’s Group Insurance through your Manulife Bank representative or by calling 1-844-239-4677. The insurance helps cover your Manulife One account in case of death, disability, or job loss.",
+    "category": "Additional Services"
+  },
+  {
+    "id": 26,
+    "question": "How does the ManulifeMONEY+ Visa credit card work with my Manulife One account?",
+    "answer": "The ManulifeMONEY+ Visa credit card allows you to earn cash back on purchases, and if you hold the Visa Infinite card, your Unlimited Daily Banking fee can be waived for the first 12 months, provided you meet the minimum spending requirement.",
+    "category": "Additional Services"
+  },
+  {
+    "id": 27,
+    "question": "What are the Manulife One General Terms?",
+    "answer": "The Manulife One General Terms outline the rules and conditions that govern the use of your Manulife One account, including how deposits, withdrawals, and sub-accounts work. It also details your rights and obligations as an account holder.",
+    "category": "General Account Terms"
+  },
+  {
+    "id": 28,
+    "question": "Can I use my Manulife One account for business purposes?",
+    "answer": "No, your Manulife One account is intended only for personal, household, family, or investment purposes. It cannot be used for business transactions.",
+    "category": "General Account Terms"
+  },
+  {
+    "id": 29,
+    "question": "What is the Manulife One Base Rate?",
+    "answer": "The Manulife One Base Rate is a variable interest rate set by Manulife Bank. It is the reference rate for loans made in Canadian dollars under Manulife One accounts, excluding Fixed Rate Sub-accounts. This rate can change over time.",
+    "category": "Credit and Interest Rates"
+  },
+  {
+    "id": 30,
+    "question": "What is a Sub-account, and how does it work with my Manulife One account?",
+    "answer": "A Sub-account allows you to separate different portions of your borrowing, such as tracking specific debts or investment-related loans. You can create variable or fixed-rate sub-accounts within your Manulife One account.",
+    "category": "Sub-Accounts and Repayment"
+  },
+  {
+    "id": 31,
+    "question": "How do I pay off my Sub-account?",
+    "answer": "You can make payments to your Sub-account at any time. Payments will first cover any accrued interest, then the remaining balance will go toward the principal. You may also choose to convert a variable-rate sub-account to a fixed-rate sub-account if desired.",
+    "category": "Sub-Accounts and Repayment"
+  },
+  {
+    "id": 32,
+    "question": "How do I deposit money into my Manulife One account?",
+    "answer": "You can deposit money via direct deposit, electronic transfer, ABM deposits through the EXCHANGE® Network, mobile deposits, or by mailing a cheque. Deposits are applied to your Main Account unless specified otherwise.",
+    "category": "Account Operations and Access"
+  },
+  {
+    "id": 33,
+    "question": "What is the hold policy for deposits?",
+    "answer": "Deposits may be subject to a hold period, especially for cheques, mobile deposits, or electronic fund transfers. Typically, the hold period is 2 to 5 business days for deposits under $1,500 and up to 8 business days for larger deposits.",
+    "category": "Account Operations and Access"
+  },
+  {
+    "id": 34,
+    "question": "What are the monthly fees for using my Manulife One account?",
+    "answer": "The monthly fee for using your Manulife One account, including unlimited daily banking, is outlined in your Operating Agreement. Any changes to the fees will be communicated with at least 30 days' notice.",
+    "category": "Fees and Charges"
+  },
+  {
+    "id": 35,
+    "question": "Are there any charges if I fail to make a payment on time?",
+    "answer": "Yes, if you miss a payment, interest will be charged on the unpaid amount, and other charges may apply for processing legal or collection services. Additional fees may be charged if a payment instrument, such as a cheque, is dishonoured.",
+    "category": "Fees and Charges"
+  },
+  {
+    "id": 36,
+    "question": "What happens if I lose my Manulife access card?",
+    "answer": "If your access card is lost or stolen, contact us immediately at 1-877-765-2265 to block the card and request a replacement. We will verify your identity and issue a new card.",
+    "category": "Account Security and Changes"
+  },
+  {
+    "id": 37,
+    "question": "How can I update my personal information for my Manulife One account?",
+    "answer": "You can update your personal information, such as your address or contact details, by logging into your online banking portal or calling customer service. Ensure that all changes are communicated promptly to avoid service interruptions.",
+    "category": "Account Security and Changes"
+  },
+  {
+    "id": 38,
+    "question": "How can I increase my credit limit?",
+    "answer": "To request a credit limit increase, you may need to provide updated financial information, and we may conduct a property appraisal. Approval is subject to a review of your financial situation and our underwriting requirements.",
+    "category": "Credit Limits and Borrowing"
+  },
+  {
+    "id": 39,
+    "question": "What happens if my account balance exceeds my credit limit?",
+    "answer": "If you exceed your authorized credit limit, you may incur overdraft charges, and transactions may be declined. It’s important to maintain a balance below your limit to avoid additional fees.",
+    "category": "Credit Limits and Borrowing"
+  },
+  {
+    "id": 40,
+    "question": "What is a Collateral Mortgage, and how does it apply to my account?",
+    "answer": "The Manulife One account is registered as a Collateral Mortgage, meaning that the account is secured by the equity in your property. This allows Manulife Bank to use the property as collateral if you default on your obligations.",
+    "category": "Legal and Security Provisions"
+  },
+  {
+    "id": 41,
+    "question": "How do I request a stop payment on a cheque or pre-authorized payment?",
+    "answer": "You can request a stop payment through online banking or by calling customer service, provided the payment hasn’t already been processed. You will need to provide specific details like the cheque number, amount, and date for the stop payment to be effective.",
+    "category": "Legal and Security Provisions"
+  },
+  {
+    "id": 42,
+    "question": "What are the available payment frequencies for the Select mortgage?",
+    "answer": "The available payment frequencies for the Select mortgage include weekly, bi-weekly, semi-monthly, monthly, weekly accelerated, and bi-weekly accelerated.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 43,
+    "question": "How do I activate my Manulife Bank Select access card?",
+    "answer": "To activate your access card, call the provided number and create your online, mobile, and telephone banking passwords. You will need your postal code and birth date for verification.",
+    "category": "Account Activation"
+  },
+  {
+    "id": 44,
+    "question": "What is Manulife Bank Select?",
+    "answer": "Manulife Bank Select is a flexible financial product that combines a mortgage with a high-interest chequing account, helping you manage your finances more effectively.",
+    "category": "General Information"
+  },
+  {
+    "id": 45,
+    "question": "How do I contact a Manulife Bank representative?",
+    "answer": "You can contact a Manulife Bank representative by calling our toll-free customer service number or by visiting one of our branches. Representatives are available to assist with any account-related questions or concerns.",
+    "category": "Customer Service"
+  },
+  {
+    "id": 46,
+    "question": "What documentation is required to open a Manulife One account?",
+    "answer": "To open a Manulife One account, you will need to provide valid government-issued identification, proof of address, and any other documents requested during the application process.",
+    "category": "Account Opening"
+  },
+  {
+    "id": 47,
+    "question": "Can I access my Manulife account from outside Canada?",
+    "answer": "Yes, you can access your Manulife account through online or mobile banking from anywhere in the world, provided you have a stable internet connection.",
+    "category": "International Access"
+  },
+  {
+    "id": 48,
+    "question": "How do I apply for a loan through Manulife One?",
+    "answer": "You can apply for a loan by contacting a Manulife representative or by submitting an application through the online banking portal. Approval is subject to credit assessment.",
+    "category": "Loans"
+  },
+  {
+    "id": 49,
+    "question": "Can I set up automatic payments for my mortgage?",
+    "answer": "Yes, you can set up automatic payments for your mortgage through online banking or by contacting customer service. This ensures that payments are made on time without the need for manual transfers.",
+    "category": "Mortgage Payments"
+  },
+  {
+    "id": 50,
+    "question": "What happens if I miss a mortgage payment?",
+    "answer": "If you miss a mortgage payment, you may incur late fees and interest charges. It's important to contact Manulife Bank as soon as possible to discuss your options and avoid further penalties.",
+    "category": "Mortgage Payments"
+  },
+  {
+    "id": 51,
+    "question": "Can I change my mortgage payment frequency?",
+    "answer": "Yes, you can change your mortgage payment frequency by contacting Manulife Bank. Changes may affect the total interest paid over the life of the mortgage.",
+    "category": "Mortgage Payments"
+  },
+  {
+    "id": 52,
+    "question": "How do I view my account statements online?",
+    "answer": "You can view your account statements online by logging into your Manulife online banking portal. Select 'Statements' from the menu to access your recent and past statements.",
+    "category": "Online Banking"
+  },
+  {
+    "id": 53,
+    "question": "What are the benefits of the ManulifeMONEY+ Visa card?",
+    "answer": "The ManulifeMONEY+ Visa card offers benefits like cash back rewards, travel insurance, and the ability to earn points on everyday purchases. For Visa Infinite cardholders, additional perks like travel lounge access may be available.",
+    "category": "Credit Cards"
+  },
+  {
+    "id": 54,
+    "question": "How do I make a credit card payment?",
+    "answer": "You can make a credit card payment through your Manulife online banking portal, by setting up automatic payments, or by transferring funds from another account.",
+    "category": "Credit Card Payments"
+  },
+  {
+    "id": 55,
+    "question": "What is a variable-rate sub-account?",
+    "answer": "A variable-rate sub-account is a type of sub-account within your Manulife One account where the interest rate may fluctuate based on market conditions. This can be advantageous when rates are low but may carry more risk if rates rise.",
+    "category": "Sub-Accounts"
+  },
+  {
+    "id": 56,
+    "question": "How can I set up direct deposits into my Manulife One account?",
+    "answer": "To set up direct deposits into your Manulife One account, provide your employer or other payers with your account number and Manulife’s transit and institution numbers. This information is available in your online banking portal.",
+    "category": "Account Setup"
+  },
+  {
+    "id": 57,
+    "question": "What happens to my Manulife One account in the event of my death?",
+    "answer": "In the event of your death, your Manulife One account will be managed according to your estate's instructions. It is important to ensure that a designated beneficiary is on file to help simplify the process for your loved ones.",
+    "category": "Account Management"
+  },
+  {
+    "id": 58,
+    "question": "Can I consolidate other debts into my Manulife One account?",
+    "answer": "Yes, you can consolidate other debts into your Manulife One account, which may help you pay down your debt faster by applying your savings to reduce the balance and interest costs.",
+    "category": "Debt Management"
+  },
+  {
+    "id": 59,
+    "question": "How do I update the beneficiaries on my Manulife One account?",
+    "answer": "To update beneficiaries on your Manulife One account, you can log into your online banking portal or contact customer service. It is important to keep beneficiary information up to date to ensure your wishes are carried out.",
+    "category": "Account Management"
+  },
+  {
+    "id": 60,
+    "question": "What is the difference between a fixed-rate and a variable-rate sub-account?",
+    "answer": "A fixed-rate sub-account has a set interest rate for a specified term, providing stability in your payments, while a variable-rate sub-account has an interest rate that may fluctuate with the market, potentially offering lower rates but with increased risk.",
+    "category": "Sub-Accounts"
+  },
+  {
+    "id": 61,
+    "question": "How do I close my Manulife One account?",
+    "answer": "To close your Manulife One account, contact customer service to discuss the process. All outstanding balances must be cleared, and any associated sub-accounts must be settled before closure.",
+    "category": "Account Closure"
+  },
+  {
+    "id": 62,
+    "question": "What are the different payment frequencies available for the Select mortgage?",
+    "answer": "The available payment frequencies for the Select mortgage include weekly, bi-weekly, semi-monthly, monthly, weekly accelerated, and bi-weekly accelerated.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 63,
+    "question": "Can I make deposits into my Manulife Bank Select account at an ATM?",
+    "answer": "Yes, you can make deposits at ATMs displaying the EXCHANGE Network logo.",
+    "category": "Deposits"
+  },
+  {
+    "id": 64,
+    "question": "What happens to my Manulife Bank Select account if I become mortgage-free?",
+    "answer": "Once your mortgage is paid off, you can continue to use your Select account as a high-interest chequing account.",
+    "category": "Account Management"
+  },
+  {
+    "id": 65,
+    "question": "How is interest earned on the Select banking account calculated?",
+    "answer": "Interest earned is calculated on the daily closing balance and added to the account monthly.",
+    "category": "Interest Calculation"
+  },
+  {
+    "id": 66,
+    "question": "How can I change my payment frequency for the Select mortgage?",
+    "answer": "You can change your payment frequency by calling Manulife Bank at 1-877-765-2265.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 67,
+    "question": "What are the prepayment privileges for a closed term mortgage?",
+    "answer": "With a closed term mortgage, you can make lump-sum payments of up to 20% of your original mortgage amount annually and increase your regular payment by up to 25%.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 68,
+    "question": "Can I split my Select mortgage?",
+    "answer": "Yes, you can split your Select mortgage into up to five portions, each with different terms and rates, which can help reduce stress around rising interest rates.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 69,
+    "question": "How can I link my Select banking account to an external account?",
+    "answer": "You can link your Select banking account to an external account by using online banking or the mobile app and providing an image of a void personalized cheque.",
+    "category": "Account Management"
+  },
+  {
+    "id": 70,
+    "question": "What is Manulife Bank Select Creditor’s Group Insurance?",
+    "answer": "Manulife Bank Select Creditor’s Group Insurance provides coverage for your mortgage balance in case of death, disability, or job loss. It is available to eligible account holders aged 18 to 64.",
+    "category": "Insurance"
+  },
+  {
+    "id": 71,
+    "question": "Can I pay my bills through my Select banking account?",
+    "answer": "Yes, you can set up and pay bills through online, mobile, or telephone banking.",
+    "category": "Payments"
+  },
+  {
+    "id": 72,
+    "question": "What do I need to do if I lose my access card?",
+    "answer": "If your access card is lost or stolen, you must notify Manulife Bank immediately at 1-877-765-2265 to cancel the card and receive a new one.",
+    "category": "Card Security"
+  },
+  {
+    "id": 73,
+    "question": "How do I deposit a cheque into my Select banking account using mobile banking?",
+    "answer": "You can deposit a cheque using the mobile banking app by tapping 'Deposit' and following the instructions to take a picture of the cheque.",
+    "category": "Deposits"
+  },
+  {
+    "id": 74,
+    "question": "Can I use my Manulife Bank Select account for business transactions?",
+    "answer": "No, Manulife Bank Select is intended for personal use only and cannot be used for business transactions.",
+    "category": "Account Usage"
+  },
+  {
+    "id": 75,
+    "question": "How do I set up automatic deposits for my income?",
+    "answer": "You can set up automatic deposits by providing your Manulife Bank Select account information to the payroll department at your place of employment.",
+    "category": "Deposits"
+  },
+  {
+    "id": 76,
+    "question": "What fees are associated with insufficient funds in my Select account?",
+    "answer": "If your account balance goes below $0, the transaction will be rejected, and you will be responsible for any Non-Sufficient Funds (NSF) charges.",
+    "category": "Fees"
+  },
+  {
+    "id": 77,
+    "question": "Can I increase the amount of my Select mortgage?",
+    "answer": "Yes, if your home's value increases, you may request an increase to your mortgage amount by contacting Manulife Bank and arranging a new property appraisal.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 78,
+    "question": "How do I transfer funds to another account from my Select account?",
+    "answer": "You can transfer funds to another account through online banking, the mobile app, or telephone banking.",
+    "category": "Transfers"
+  },
+  {
+    "id": 79,
+    "question": "Can I make a bill payment using telephone banking?",
+    "answer": "Yes, you can make bill payments using the telephone banking system by selecting the appropriate options.",
+    "category": "Payments"
+  },
+  {
+    "id": 80,
+    "question": "What is the difference between a fixed and a variable rate mortgage?",
+    "answer": "A fixed rate mortgage locks in your interest rate for the term, while a variable rate mortgage's interest rate can fluctuate based on market conditions.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 81,
+    "question": "Can I use my Select account to withdraw money from an ATM?",
+    "answer": "Yes, you can use your access card to withdraw money from any ATM in Canada, especially those in THE EXCHANGE Network to avoid convenience fees.",
+    "category": "Withdrawals"
+  },
+  {
+    "id": 82,
+    "question": "What happens if I use an ATM outside of THE EXCHANGE Network?",
+    "answer": "If you use an ATM outside of THE EXCHANGE Network, you may incur convenience fees charged by the bank or ATM operator.",
+    "category": "Withdrawals"
+  },
+  {
+    "id": 83,
+    "question": "How do I pay my property taxes through my Select account?",
+    "answer": "You can pay your property taxes by setting up pre-authorized payments from your Select banking account.",
+    "category": "Payments"
+  },
+  {
+    "id": 84,
+    "question": "Can I make future-dated transactions using my Select account?",
+    "answer": "Yes, you can schedule future-dated or recurring transactions through online banking or the mobile app.",
+    "category": "Transfers"
+  },
+  {
+    "id": 85,
+    "question": "How do I set up an external account for fund transfers?",
+    "answer": "You can link an external account by signing into online banking or using the mobile app and selecting 'Link an external account.'",
+    "category": "Account Management"
+  },
+  {
+    "id": 86,
+    "question": "What should I do if I forget my online banking password?",
+    "answer": "If you forget your password, you can reset it by using the 'Forgot Password' feature on the Manulife Bank website or contacting customer service.",
+    "category": "Account Access"
+  },
+  {
+    "id": 87,
+    "question": "How can I track my spending using the Select account?",
+    "answer": "You can track your spending by viewing transaction details through online banking or the mobile app.",
+    "category": "Account Management"
+  },
+  {
+    "id": 88,
+    "question": "Can I prepay my Select mortgage without penalties?",
+    "answer": "If you have an open term mortgage, you may prepay any amount at any time without penalties. For closed term mortgages, prepayment privileges allow up to 20% of the original mortgage amount annually.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 89,
+    "question": "How do I receive my monthly Select account statement?",
+    "answer": "You will receive a monthly statement for your Select banking account, and you can also view a transaction-only version online.",
+    "category": "Account Statements"
+  },
+  {
+    "id": 90,
+    "question": "Can I change the PIN of my Manulife Select access card?",
+    "answer": "Yes, you can change your PIN at any ATM that is part of THE EXCHANGE Network in Canada.",
+    "category": "Card Security"
+  },
+  {
+    "id": 91,
+    "question": "How can I add a co-borrower to my Select mortgage?",
+    "answer": "To add a co-borrower, contact Manulife Bank customer service and provide the required documentation, including income and identification information for the co-borrower.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 92,
+    "question": "What options are available for term renewals?",
+    "answer": "When your term mortgage matures, you can choose to renew for another term with either a fixed or variable interest rate, depending on the current offers available.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 93,
+    "question": "How do I link my Select account to my Manulife investment account?",
+    "answer": "To link your Select account to your Manulife investment account, contact customer service or use the online banking portal to complete the necessary linking process.",
+    "category": "Account Management"
+  },
+  {
+    "id": 94,
+    "question": "Can I use overdraft protection with my Select banking account?",
+    "answer": "Yes, overdraft protection is available with your Select banking account. Contact customer service for details on how to add overdraft protection.",
+    "category": "Account Management"
+  },
+  {
+    "id": 95,
+    "question": "How do I apply for Manulife Bank Select?",
+    "answer": "You can apply for Manulife Bank Select online, by phone, or through an advisor who can guide you through the process.",
+    "category": "Account Eligibility"
+  },
+  {
+    "id": 96,
+    "question": "Can I use my Select account for international transactions?",
+    "answer": "Yes, your Select access card can be used for international transactions. However, foreign exchange fees may apply.",
+    "category": "Account Usage"
+  },
+  {
+    "id": 97,
+    "question": "What is the interest rate for Manulife Bank Select mortgages?",
+    "answer": "The interest rate for Manulife Bank Select mortgages varies based on market conditions and the type of term selected. Contact Manulife Bank for current rates.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 98,
+    "question": "How do I cancel a pre-authorized payment?",
+    "answer": "To cancel a pre-authorized payment, contact the payee directly or log in to your online banking account to cancel the payment setup.",
+    "category": "Payments"
+  },
+  {
+    "id": 99,
+    "question": "Can I apply for multiple Manulife Bank Select accounts?",
+    "answer": "No, typically customers can only have one Manulife Bank Select account. Contact Manulife Bank if you have specific needs.",
+    "category": "Account Eligibility"
+  },
+  {
+    "id": 100,
+    "question": "What documents are required to apply for a Select mortgage?",
+    "answer": "To apply for a Select mortgage, you will need identification, proof of income, and property details. Additional documents may be required for underwriting.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 101,
+    "question": "How do I view my current mortgage balance online?",
+    "answer": "You can view your current mortgage balance by logging into your Manulife Bank online banking or mobile app.",
+    "category": "Account Access"
+  },
+  {
+    "id": 102,
+    "question": "Can I receive email notifications for transactions?",
+    "answer": "Yes, you can set up email notifications for transactions by updating your preferences in your online banking settings.",
+    "category": "Account Management"
+  },
+  {
+    "id": 103,
+    "question": "How can I dispute an unauthorized transaction?",
+    "answer": "To dispute an unauthorized transaction, contact Manulife Bank customer service immediately and provide transaction details for investigation.",
+    "category": "Account Security"
+  },
+  {
+    "id": 104,
+    "question": "Can I pay off my mortgage in full before maturity?",
+    "answer": "Yes, you can pay off your mortgage in full before maturity, but early payment charges may apply depending on the type of mortgage you have.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 105,
+    "question": "How do I update my contact information for my Select account?",
+    "answer": "You can update your contact information by logging into your online banking or contacting Manulife Bank customer service.",
+    "category": "Account Management"
+  },
+  {
+    "id": 106,
+    "question": "Is there an annual fee for Manulife Bank Select?",
+    "answer": "There is no annual fee for the Select account, but certain transactions and services may incur charges. Review the fee schedule for details.",
+    "category": "Fees"
+  },
+  {
+    "id": 107,
+    "question": "How do I apply for creditor insurance for my Select mortgage?",
+    "answer": "You can apply for creditor insurance by contacting Manulife Bank or discussing with your advisor at the time of mortgage approval.",
+    "category": "Insurance"
+  },
+  {
+    "id": 108,
+    "question": "Can I access my Select account using a voice command?",
+    "answer": "Yes, you can use the Manulife Bank mobile app, which is compatible with voice command features available on your smartphone.",
+    "category": "Account Access"
+  },
+  {
+    "id": 109,
+    "question": "What is Manulife One?",
+    "answer": "Manulife One combines your mortgage, personal loans, lines of credit, and short-term savings into one easy-to-manage account, allowing you to use your money to reduce debt and save on interest costs.",
+    "category": "General Information"
+  },
+  {
+    "id": 110,
+    "question": "How does Manulife One help reduce interest costs?",
+    "answer": "Every deposit made into your Manulife One account reduces your debt until you need to withdraw the money, which saves you interest costs over time.",
+    "category": "Interest Savings"
+  },
+  {
+    "id": 111,
+    "question": "What should I do to activate my Manulife One access card?",
+    "answer": "To activate your Manulife One access card, call the provided number and create your online, mobile, and telephone banking passwords. You'll need to provide your postal code and birth date for security purposes.",
+    "category": "Account Activation"
+  },
+  {
+    "id": 112,
+    "question": "How can I deposit my regular income into my Manulife One account?",
+    "answer": "You can direct your income to be deposited into your Manulife One account by contacting the payroll department at your place of employment and providing your Manulife One account details.",
+    "category": "Deposits"
+  },
+  {
+    "id": 113,
+    "question": "What are the ways I can make deposits to my Manulife One account?",
+    "answer": "You can make deposits using direct deposit, mobile deposit, fund transfers, ATM deposits, mailing cheques, or RBC Royal Bank deposit slips.",
+    "category": "Deposits"
+  },
+  {
+    "id": 114,
+    "question": "Can I use my Manulife One account as my everyday banking account?",
+    "answer": "Yes, you can use your Manulife One account for everyday banking activities like bill payments, deposits, withdrawals, and debit purchases.",
+    "category": "Account Usage"
+  },
+  {
+    "id": 115,
+    "question": "How can I repay other loans using my Manulife One account?",
+    "answer": "Once your Manulife One account is active, you can repay other loans by making money transfers through online, mobile, or telephone banking or by writing a cheque.",
+    "category": "Debt Repayment"
+  },
+  {
+    "id": 116,
+    "question": "What is a tracking sub-account in Manulife One?",
+    "answer": "A tracking sub-account allows you to track a portion of your debt separately from the main account while maintaining the same low variable interest rate.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 117,
+    "question": "How do I set up bill payments from my Manulife One account?",
+    "answer": "You can set up bill payments through online or mobile banking by downloading a direct deposit form and providing it to the appropriate party to set up automatic transactions.",
+    "category": "Payments"
+  },
+  {
+    "id": 118,
+    "question": "How can I transfer balances from other deposit accounts to my Manulife One account?",
+    "answer": "You can transfer balances from other deposit accounts by linking your Manulife One account to an external account through the mobile banking app or by submitting a funds transfer agreement.",
+    "category": "Transfers"
+  },
+  {
+    "id": 119,
+    "question": "What is a term sub-account in Manulife One?",
+    "answer": "A term sub-account is similar to a traditional mortgage, allowing you to lock in debt with a defined amortization period and a fixed or variable interest rate.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 120,
+    "question": "How can I access my Manulife One account through telephone banking?",
+    "answer": "You can access your account over the phone by using the telephone banking system, which allows you to pay bills, transfer funds, check balances, and more.",
+    "category": "Account Access"
+  },
+  {
+    "id": 121,
+    "question": "Can I have multiple sub-accounts within my Manulife One account?",
+    "answer": "Yes, you can open up to five term sub-accounts and up to 15 tracking sub-accounts within your Manulife One account.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 122,
+    "question": "How are interest rates calculated on my Manulife One account?",
+    "answer": "Interest is calculated on your daily closing balance and charged monthly. Variable rates are applied to your main account and sub-accounts, while fixed rates are guaranteed for a chosen term.",
+    "category": "Interest Calculation"
+  },
+  {
+    "id": 123,
+    "question": "What happens if I move and sell my home?",
+    "answer": "If you sell your home, your Manulife One line of credit is removed, but you can continue using the account as a high-interest chequing account if arrangements are made before the closing date.",
+    "category": "Account Changes"
+  },
+  {
+    "id": 124,
+    "question": "How do I request an increase to my borrowing limit on my Manulife One account?",
+    "answer": "To request an increase to your borrowing limit, you can use the mobile banking app or contact Manulife Bank. A new appraisal and underwriting may be required.",
+    "category": "Credit Limit"
+  },
+  {
+    "id": 125,
+    "question": "What are the options for repayment on a term sub-account?",
+    "answer": "Term sub-accounts require monthly principal and interest payments. You can choose a fixed or variable rate and set the amortization period that suits your needs.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 126,
+    "question": "Can I deposit foreign funds into my Manulife One account?",
+    "answer": "Manulife One is a Canadian funds account, but U.S. dollar cheques from Canadian financial institutions can be accepted, subject to a foreign funds handling charge.",
+    "category": "Deposits"
+  },
+  {
+    "id": 127,
+    "question": "How does the Unlimited Daily Banking fee work?",
+    "answer": "The Unlimited Daily Banking fee is $16.95 per month ($9.95 for seniors) and covers various services like debit purchases, bill payments, and ATM withdrawals. The fee is waived if the account balance exceeds $5,000 at month-end.",
+    "category": "Fees"
+  },
+  {
+    "id": 128,
+    "question": "What should I do if my Manulife One access card is lost or stolen?",
+    "answer": "If your access card is lost or stolen, you should contact Manulife Bank immediately to cancel the card and issue a new one.",
+    "category": "Card Security"
+  },
+  {
+    "id": 129,
+    "question": "What are the borrowing limits on a Manulife One account?",
+    "answer": "The borrowing limit for a Manulife One account depends on the value of your home, your credit history, and your income. Typically, you can borrow up to 80% of the value of your home.",
+    "category": "Credit Limit"
+  },
+  {
+    "id": 130,
+    "question": "How do I qualify for a Manulife One account?",
+    "answer": "To qualify for a Manulife One account, you need to be a Canadian resident, have a good credit history, and own a home with equity. Proof of income and identification are also required.",
+    "category": "Account Eligibility"
+  },
+  {
+    "id": 131,
+    "question": "Can I access my Manulife One account from outside of Canada?",
+    "answer": "Yes, you can access your Manulife One account from outside of Canada through online banking or the mobile app, as long as you have internet access.",
+    "category": "Account Access"
+  },
+  {
+    "id": 132,
+    "question": "How do I make a wire transfer from my Manulife One account?",
+    "answer": "To make a wire transfer, you need to contact Manulife Bank's customer service. You'll need the recipient's banking information, including their SWIFT code and account number.",
+    "category": "Transfers"
+  },
+  {
+    "id": 133,
+    "question": "What is the minimum payment required on my Manulife One account?",
+    "answer": "The minimum payment required is the interest accrued on your outstanding balance, plus any fees and charges that may apply.",
+    "category": "Payments"
+  },
+  {
+    "id": 134,
+    "question": "Can I use my Manulife One account to invest in other financial products?",
+    "answer": "Yes, you can use available funds in your Manulife One account to invest in other financial products, such as mutual funds or GICs, through Manulife or other financial institutions.",
+    "category": "Investments"
+  },
+  {
+    "id": 135,
+    "question": "How do I switch my mortgage to a Manulife One account?",
+    "answer": "To switch your mortgage to a Manulife One account, you need to apply with Manulife Bank. They will assess your financial situation, including income, credit history, and property value.",
+    "category": "Mortgage"
+  },
+  {
+    "id": 136,
+    "question": "Can I pay my property taxes through my Manulife One account?",
+    "answer": "Yes, you can pay your property taxes through your Manulife One account by setting up pre-authorized payments or by making one-time payments.",
+    "category": "Payments"
+  },
+  {
+    "id": 137,
+    "question": "What happens to my Manulife One account if interest rates rise?",
+    "answer": "If interest rates rise, the interest charged on your Manulife One account will increase, which may result in higher monthly payments. Fixed-rate sub-accounts are not affected by rate changes until the term ends.",
+    "category": "Interest Rate Impact"
+  },
+  {
+    "id": 138,
+    "question": "Can I make lump-sum payments on my term sub-account?",
+    "answer": "Yes, you can make lump-sum payments on your term sub-account at any time. However, depending on the terms, there may be a prepayment charge.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 139,
+    "question": "How do I order cheques for my Manulife One account?",
+    "answer": "You can order cheques for your Manulife One account through online banking or by contacting Manulife Bank's customer service.",
+    "category": "Account Management"
+  },
+  {
+    "id": 140,
+    "question": "Can I transfer funds from my Manulife One account to another bank account?",
+    "answer": "Yes, you can transfer funds from your Manulife One account to another bank account through online banking, the mobile app, or telephone banking.",
+    "category": "Transfers"
+  },
+  {
+    "id": 141,
+    "question": "What fees are associated with a Manulife One account?",
+    "answer": "Fees may include the Unlimited Daily Banking fee, wire transfer fees, foreign funds handling charges, and charges for special services like overdrafts.",
+    "category": "Fees"
+  },
+  {
+    "id": 142,
+    "question": "How do I set up direct deposit for my government benefits?",
+    "answer": "To set up direct deposit for government benefits, provide your Manulife One account details to the government agency responsible for the benefits.",
+    "category": "Deposits"
+  },
+  {
+    "id": 143,
+    "question": "What is the difference between a tracking sub-account and a term sub-account?",
+    "answer": "A tracking sub-account allows you to track a portion of your debt separately while maintaining a variable rate, whereas a term sub-account locks in a portion of your debt with a fixed or variable rate for a set term.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 144,
+    "question": "Can I use my Manulife One account to pay for renovations?",
+    "answer": "Yes, you can use available credit in your Manulife One account to pay for home renovations, and you may set up a tracking sub-account to track these expenses separately.",
+    "category": "Account Usage"
+  },
+  {
+    "id": 145,
+    "question": "How can I increase my credit score with a Manulife One account?",
+    "answer": "Making regular payments, maintaining a low balance relative to your credit limit, and using your Manulife One account responsibly can help improve your credit score.",
+    "category": "Credit Management"
+  },
+  {
+    "id": 146,
+    "question": "What happens if I miss a payment on my Manulife One account?",
+    "answer": "If you miss a payment, interest will continue to accrue on the outstanding balance, and you may incur additional fees. It is important to make at least the minimum payment to avoid penalties.",
+    "category": "Payments and Defaults"
+  },
+  {
+    "id": 147,
+    "question": "How do I apply for a Manulife One account?",
+    "answer": "You can apply for a Manulife One account by contacting Manulife Bank directly or through an authorized financial advisor. You will need to provide financial information and undergo a credit check.",
+    "category": "Account Application"
+  },
+  {
+    "id": 148,
+    "question": "Can I receive e-statements for my Manulife One account?",
+    "answer": "Yes, you can opt to receive e-statements for your Manulife One account through online banking. This is an environmentally friendly option that also provides easy access to your statements.",
+    "category": "Account Management"
+  },
+  {
+    "id": 149,
+    "question": "What is the process for refinancing my mortgage with Manulife One?",
+    "answer": "To refinance your mortgage with Manulife One, contact Manulife Bank to discuss your options. You may need to provide updated financial information and undergo a new appraisal of your property.",
+    "category": "Refinancing"
+  },
+  {
+    "id": 150,
+    "question": "Can I automate my savings with Manulife One?",
+    "answer": "Yes, you can set up automatic transfers from your Manulife One account to a separate savings account to help automate your savings plan.",
+    "category": "Savings"
+  },
+  {
+    "id": 151,
+    "question": "What is the maximum borrowing limit for a Manulife One account?",
+    "answer": "The maximum borrowing limit is typically 80% of the appraised value of your property, subject to credit approval and other financial criteria.",
+    "category": "Credit Limit"
+  },
+  {
+    "id": 152,
+    "question": "How can I view my account balance for Manulife One?",
+    "answer": "You can view your account balance through online banking, the mobile banking app, or by contacting Manulife Bank's customer service.",
+    "category": "Account Access"
+  },
+  {
+    "id": 153,
+    "question": "Can I change my payment schedule for a term sub-account?",
+    "answer": "Yes, you may be able to change your payment schedule for a term sub-account by contacting Manulife Bank. Options may include adjusting payment frequency or amount.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 154,
+    "question": "What happens if I want to pay off my Manulife One account early?",
+    "answer": "You can pay off your Manulife One account at any time without penalty. However, there may be fees if you have a term sub-account and pay it off before the term ends.",
+    "category": "Account Closure"
+  },
+  {
+    "id": 155,
+    "question": "Can I link external bank accounts to my Manulife One account?",
+    "answer": "Yes, you can link external bank accounts to your Manulife One account for easy transfers. This can be done through online banking or by submitting a linking request.",
+    "category": "Transfers"
+  },
+  {
+    "id": 156,
+    "question": "How does the Manulife One account differ from a traditional mortgage?",
+    "answer": "Unlike a traditional mortgage, Manulife One combines your mortgage, personal loans, and short-term savings into one account, offering flexibility and potential interest savings.",
+    "category": "General Information"
+  },
+  {
+    "id": 157,
+    "question": "Can I use a credit card with my Manulife One account?",
+    "answer": "Yes, you can link a credit card to your Manulife One account for payments and transfers. This provides convenience for managing both your credit and banking needs.",
+    "category": "Credit Management"
+  },
+  {
+    "id": 158,
+    "question": "How do I contact customer service for Manulife One?",
+    "answer": "You can contact Manulife Bank's customer service by phone or through their website for support with your Manulife One account.",
+    "category": "Customer Support"
+  },
+  {
+    "id": 159,
+    "question": "Can I switch from a variable rate to a fixed rate on a term sub-account?",
+    "answer": "Yes, you may be able to switch from a variable rate to a fixed rate on a term sub-account by contacting Manulife Bank. Terms and conditions may apply.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 160,
+    "question": "Is there a fee for transferring funds between sub-accounts in Manulife One?",
+    "answer": "No, there is typically no fee for transferring funds between sub-accounts in your Manulife One account.",
+    "category": "Transfers"
+  },
+  {
+    "id": 161,
+    "question": "How does Manulife One calculate daily interest?",
+    "answer": "Daily interest is calculated based on the daily closing balance of your account, including any sub-accounts. Interest is charged monthly based on the accumulated daily interest.",
+    "category": "Interest Calculation"
+  },
+  {
+    "id": 162,
+    "question": "Can I add an authorized user to my Manulife One account?",
+    "answer": "Yes, you can add an authorized user to your Manulife One account by contacting Manulife Bank and providing the necessary information for the additional user.",
+    "category": "Account Management"
+  },
+  {
+    "id": 163,
+    "question": "What documents are required to open a Manulife One account?",
+    "answer": "To open a Manulife One account, you will need to provide proof of identity, proof of income, and information about your property. A credit check will also be conducted.",
+    "category": "Account Application"
+  },
+  {
+    "id": 164,
+    "question": "How do I update my personal information for my Manulife One account?",
+    "answer": "You can update your personal information, such as your address or phone number, through online banking or by contacting Manulife Bank's customer service.",
+    "category": "Account Management"
+  },
+  {
+    "id": 165,
+    "question": "Can I use my Manulife One account to pay off high-interest credit cards?",
+    "answer": "Yes, you can use the available credit in your Manulife One account to pay off high-interest credit card debt, potentially saving on interest costs.",
+    "category": "Debt Repayment"
+  },
+  {
+    "id": 166,
+    "question": "How do I schedule recurring payments from my Manulife One account?",
+    "answer": "You can schedule recurring payments through online banking or the mobile app by selecting the frequency and amount for each payment.",
+    "category": "Payments"
+  },
+  {
+    "id": 167,
+    "question": "What is the interest rate on a tracking sub-account?",
+    "answer": "The interest rate on a tracking sub-account is typically a variable rate, similar to the rate on the main Manulife One account, and it fluctuates with market conditions.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 168,
+    "question": "Can I get pre-approval for a Manulife One account?",
+    "answer": "Yes, you can apply for pre-approval for a Manulife One account by providing financial information and undergoing a credit check. Pre-approval can give you an idea of your borrowing capacity.",
+    "category": "Account Application"
+  },
+  {
+    "id": 169,
+    "question": "Can I open a Manulife One account jointly with another person?",
+    "answer": "Yes, you can open a Manulife One account jointly with another person, such as a spouse. Both applicants must meet the eligibility requirements and provide the necessary documentation.",
+    "category": "Joint Account"
+  },
+  {
+    "id": 170,
+    "question": "What happens if I go over my borrowing limit on my Manulife One account?",
+    "answer": "If you exceed your borrowing limit, you may incur over-limit fees, and Manulife Bank may restrict access to further credit until the balance is reduced below the limit.",
+    "category": "Credit Limit"
+  },
+  {
+    "id": 171,
+    "question": "How can I get a copy of my Manulife One account statement?",
+    "answer": "You can access and download your Manulife One account statements through online banking. You may also request a paper statement by contacting customer service, although fees may apply.",
+    "category": "Account Statements"
+  },
+  {
+    "id": 172,
+    "question": "Can I link my Manulife One account to my business bank account?",
+    "answer": "No, Manulife One is intended for personal use only, and cannot be linked to a business bank account for transactions.",
+    "category": "Account Usage"
+  },
+  {
+    "id": 173,
+    "question": "What options do I have if I struggle to make payments on my Manulife One account?",
+    "answer": "If you are struggling to make payments, contact Manulife Bank to discuss potential options such as payment deferrals, interest-only payments, or restructuring your debt.",
+    "category": "Payments and Defaults"
+  },
+  {
+    "id": 174,
+    "question": "How do I apply for a fixed rate on a term sub-account?",
+    "answer": "You can apply for a fixed rate on a term sub-account by contacting Manulife Bank and selecting the term and rate that best suits your financial needs.",
+    "category": "Sub-accounts"
+  },
+  {
+    "id": 175,
+    "question": "How can I renew my Manulife One sub-account through mobile?",
+    "answer": "Follow these steps to renew your sub-account in the mobile app:\n1. Download Manulife Bank for your iOS or Android device and sign into the app.\n2. Tap More in the main menu, then More Bank Services, then Mortgage Renewal.\n3. Review and update your contact information, including your phone number and email address.\n4. Select the account you want to renew (if you have more than one).\n5. Select your new sub-account type and term.\n6. Consent to the terms and conditions.\n7. Tap Submit.\nYour new sub-account term will be reflected in your account details one business day after the scheduled renewal date of your current term.",
+    "category": "Mobile Renewal"
+  },
+  {
+    "id": 176,
+    "question": "How can I renew my Manulife One sub-account over the phone?",
+    "answer": "To renew your mortgage over the phone, call us at 1-855-682-5979, or email mortgagerenewal@manulife.ca. We’ll guide you through the renewal process so you can feel confident choosing the term and interest rate type that works best for you.",
+    "category": "Phone Renewal"
+  },
+  {
+    "id": 177,
+    "question": "How can I renew my Manulife One sub-account online?",
+    "answer": "Log into online banking at manulifebank.ca/renewal. Use the reference number provided on your renewal postcard, review your options, and submit your decision online.",
+    "category": "Online Renewal"
+  },
+  {
+    "id": 178,
+    "question": "How can I renew my Manulife One sub-account through Fax or mail?",
+    "answer": "Fax us a copy of all pages of your signed renewal document with your preferred renewal option selected to 1-866-840-6325.\n\nOr mail all pages of your signed renewal document with your preferred renewal option selected to:\n\nManulife Bank of Canada\n500 King Street\nSuite 500-MA\nP.O. Box 1602 STN Waterloo\nWaterloo, ON N2J 4C6",
+    "category": "Fax or Mail Renewal"
+  },
+  {
+    "id": 179,
+    "question": "How can I get an increase on my borrowing room?",
+    "answer": "Please reach out to our Inside Sales team at bank_inside_sales@manulife.ca",
+    "category": "Borrowing Room Increase"
+  },
+  {
+    "id": 180,
+    "question": "What is an OPEN TERM?",
+    "answer": "Open terms come at a rate premium because of the open repayment privilege.",
+    "category": "Term Information"
+  },
+  {
+    "id": 181,
+    "question": "Are my rates going to decrease with the Bank of Canada Rate Drop?",
+    "answer": "We are aware of the Bank of Canada rate reduction and our rates are currently being reviewed. Manulife Bank remains committed to remaining competitive in the Canadian market. Any updates to our interest rates will be posted on Manulifebank.ca.\n\nFIXED RATES - Bank of Canada\n\nFixed-mortgage rates are determined by what happens to the bond market, which, while also affected by Bank of Canada rate decisions, is based on overall investor confidence. The market had already largely priced in the rate cut based on long-term bond yields.",
+    "category": "Rates and Interest"
+  },
+  {
+    "id": 182,
+    "question": "What is my prepayment privilege if my interest type is closed?",
+    "answer": "You have a 20% prepayment privilege each contract year, based on the original mortgage amount.",
+    "category": "Prepayment Privileges"
+  },
+  {
+    "id": 183,
+    "question": "What is my prepayment privilege if my interest type is open?",
+    "answer": "Your term is 'open' prepayment privilege meaning that you can repay with no restrictions, limits, or penalties at any time during the term. You can also renew this into a closed term at any time without a penalty.",
+    "category": "Prepayment Privileges"
+  }
+
+]
