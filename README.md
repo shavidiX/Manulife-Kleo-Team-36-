@@ -1,4 +1,4 @@
-# Manulife Kleo AI Assistant
+# Manulife Kleo AI-Assistant
 
 This is a Python-based chatbot specifically designed to handle renewal-related queries for Manulife Bank.
 
